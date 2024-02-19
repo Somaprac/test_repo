@@ -1,7 +1,7 @@
-hello,world
+class hello
 {
 	public static void main()
 	{
-		print("hello");
+		system.out.println("hello");
 	}
 }
